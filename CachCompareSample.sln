@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachCompareSample", "CachCompareSample\CachCompareSample.csproj", "{988AA46C-50B9-4543-A3C6-42B03C9CE844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988AA46C-50B9-4543-A3C6-42B03C9CE844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988AA46C-50B9-4543-A3C6-42B03C9CE844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988AA46C-50B9-4543-A3C6-42B03C9CE844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988AA46C-50B9-4543-A3C6-42B03C9CE844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C07413C4-501A-4134-BCDC-747815788C44}
+	EndGlobalSection
+EndGlobal
